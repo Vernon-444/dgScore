@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iEPMgsLSOCRLzeHnbuPaFfBQMbilzD18MYZZPLDOJrZ+ailyJGNVanL6dGWFhETFb1JYg8y2Y4Uo+kcKnMHKAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mtver\\source\\repos\\Vernon-444\\dgScore\\dgCourseCaddy\\dgCourseCaddy\\dgCourseCaddy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mtver\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
